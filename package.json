@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eduard-Konovka/webpack-5.5-lite.git"
+    "url": "git+https://github.com/OlhaPetra/webpack-5.5-lite"
   },
   "keywords": [],
   "author": "Eduard Konovka <ed098ua@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Eduard-Konovka/webpack-5.5-lite/issues"
+    "url": "https://github.com/OlhaPetra/webpack-5.5-lite"
   },
-  "homepage": "https://Eduard-Konovka.github.io/webpack-5.5-lite",
+  "homepage": "https://github.com/OlhaPetra/webpack-5.5-lite",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
